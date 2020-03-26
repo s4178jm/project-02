@@ -2,18 +2,22 @@
 
 ## Project Links
 
-- [add your github repo link]()
+- [add your github repo link](https://github.com/s4178jm/project-02/blob/master/project-worksheet.md)
 - [add your deployment link]()
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+I will create an app which can the weather. The app can show current weather, 5 day / 3 hour forecast, and weather alert.
 
 ## API
 
 Use this section to include info about the API you have chosen and a code snippet of the data that it returns and is required for your project. 
 
+Openweathermap:https://openweathermap.org/api
 
+[Current weather](https://openweathermap.org/current)
+[5 day / 3 hour forecast](https://openweathermap.org/forecast5)
+[Weather Alert](https://openweathermap.org/triggers)
 ```
 {data: {} }
 ```
@@ -38,7 +42,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### PostMVP EXAMPLE
 
-- Add localStorage or firebase for storage
+- Add weather map1.0 if I have time
 
 ## Components
 ##### Writing out your components and its descriptions isn't a required part of the proposal but can be helpful.
