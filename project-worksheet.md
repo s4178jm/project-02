@@ -7,7 +7,7 @@
 
 ## Project Description
 
-I will create an app which can the weather. The app can show current weather, 5 day / 3 hour forecast, and weather alert.
+I will create an app which can the weather. The app can show current weather, 5 day / 3 hour forecast, and UV index.
 
 ## API
 
