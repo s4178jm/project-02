@@ -58,7 +58,7 @@ Based on the initial logic defined in the previous sections try and breakdown th
 | --- | :---: |  
 | App | This will make the initial data pull and include React Router | 
 | Header | This will render the header include the nav | 
-| Footer | This will render the Footer |
+| Form | This will ask the user location |
 | Current Weather | This will render weather component |
 | 5 days Forecast | This will render 5 days Forecast component |
 | UV info | This will render UV info |
