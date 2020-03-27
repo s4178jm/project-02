@@ -39,11 +39,15 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 - Find and use external api 
 - Render data on page 
 - Allow user to interact with the page
+- Get user location
+- Adding international location
+
 
 #### PostMVP EXAMPLE
 
 - Add weather map1.0 if I have time
-- Get user location
+- switch temp unit
+
 
 ## Components
 ##### Writing out your components and its descriptions isn't a required part of the proposal but can be helpful.
@@ -65,12 +69,18 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
+| Adding get user location | H | 4hrs| hrs | hrs |
+| Working with API | H | 3hrs | 2.5hrs | 2.5hrs |
 | Current Weather | H | 3hrs | hrs | hrs |
 | 5 days Forecast | H | 2hrs | hrs | hrs|
-| UV info | M | 1.5hrs | hrs| hrs|
-| CSS design | M | 2hrs| hrs | hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| UV info | M | 1.5hrs | hrs | hrs |
+| mobile css design | M | 3hrs | hrs | hrs |
+| desktop css design | M | 3hrs | hrs | hrs |
+| Adding international weather| M | 2hrs | hrs | hrs |
+| Swich temp unit button| L | 1.5 hrs | hrs | hrs |
+| Weather map| L | 4hrs | hrs | hrs |
+| Map css design| L | 3hrs | hrs | hrs |
+| Total | H | 33hrs| 5hrs | 5hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project such as Axios, ReactStrap, D3, etc. 
