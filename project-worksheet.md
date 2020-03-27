@@ -43,6 +43,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 #### PostMVP EXAMPLE
 
 - Add weather map1.0 if I have time
+- Get user location
 
 ## Components
 ##### Writing out your components and its descriptions isn't a required part of the proposal but can be helpful.
