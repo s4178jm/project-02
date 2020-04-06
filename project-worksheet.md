@@ -59,13 +59,13 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-|Input handling	High|	4hrs|	N/A|	N/A|
+|Input handling	|High|	4hrs|	N/A|	N/A|
 |Comparing search result vs source list|	High|	2hrs|	N/A|	N/A|
-|Configuring API	High|	4hrs|	N/A|	N/A|
+|Configuring API|	High|	4hrs|	N/A|	N/A|
 |API response tweaking|	High|	4hrs|	N/A|	N/A|
 |Write Out Components|	High|	4hrs|	N/A|	N/A|
 |UX and ReadME tweaks|	Medium|	2hrs|	N/A|	N/A|
-|Total|		20hrs|	N/A|	N/A|
+|Total|		|20hrs|	N/A|	N/A|
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project such as Axios, ReactStrap, D3, etc. 
