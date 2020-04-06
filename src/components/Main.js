@@ -116,7 +116,7 @@ class Main extends React.Component {
 
 
     translateText = async (text) => {
-      let queryLink = 'https://translate.yandex.net/api/v1.5/tr.json/translate?key=trnsl.1.1.20190827T203759Z.5526d2e4bd7cba98.4a7c48b1d1c3898045ae0697422b0cb8578be0bd&text=' + text + '&lang=en'
+      let queryLink = 'https://translate.yandex.net/api/v1.5/tr.json/translate?key=trnsl.1.1.20200406T124921Z.5c7bbf8df856a279.c16240c21f41b11a0dc0de03864d7f3824a02bf2&text=' + text + '&lang=en'
       const response = await axios.post(queryLink)
       return response.data.text[0];
     }

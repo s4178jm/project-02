@@ -4,8 +4,7 @@ body {
   font-family: 'Roboto', sans-serif;
   border: 1px clear;
   box-sizing: border-box;
-  background: #fff0b3;
-
+  background: gray;
 }
 
 
@@ -26,7 +25,6 @@ header,
 footer {
   width: 100%;
   background: #646464;
-  color: red;
   line-height: 0px;
   justify-content: flex-end;
   font-size: 18px;
@@ -35,7 +33,7 @@ footer {
 
 main {
   background: #F4F4F4;
-  padding: 10px 10px 5px 10px;
+  padding: 20px 10px 20px 10px;
 }
 
 section {
@@ -189,7 +187,7 @@ div {
 
 
 form {
-  /* background: #ffe6e6; */
+  
   justify-content: center;
   padding: 10px 10px 10px 10px;
   text-align: center;
