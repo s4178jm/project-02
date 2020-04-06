@@ -20,13 +20,17 @@ class Home extends React.Component {
       </div>
 
       <div className ='container'>
+        <div id="US" class= "flag"><p>US</p>
         <NewsList addClass={`us-${isButtonClicked}`}
           newsList={this.props.usSearchList} />
-
+        </div>
+        <div id="GB" class= "flag"><p>GB</p>
         <NewsList addClass={`gb-${isButtonClicked}`}
           newsList={this.props.gbSearchList} />
-
+        </div>
+        <div id="Globle" class= "flag"><p>Globle</p>
         <NewsList addClass={`world-${isButtonClicked}`} newsList={this.props.worldResultList} />
+      </div>
       </div>
 
     </>
