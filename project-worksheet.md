@@ -3,24 +3,17 @@
 ## Project Links
 
 - [add your github repo link](https://github.com/s4178jm/project-02/blob/master/project-worksheet.md)
-- [add your deployment link]()
+- [add your deployment link](https://5e8b16b1a579bb02f4c42030--festive-clarke-da23bb.netlify.com/)
 
 ## Project Description
 
-I will create an app which can the weather. The app can show current weather, 5 day / 3 hour forecast, and UV index.
-
+Newsapp allows readers to compare how top news is reported across countries. The user is invited to type a search term, which will make three separate API calls to NewsAPI and return three windows offering the top results in the US, UK and the rest of the world.
 ## API
 
 Use this section to include info about the API you have chosen and a code snippet of the data that it returns and is required for your project. 
 
-Openweathermap:https://openweathermap.org/api
+News api:https://newsapi.org/
 
-[Current weather](https://openweathermap.org/current)
-[5 day / 3 hour forecast](https://openweathermap.org/forecast5)
-[Weather Alert](https://openweathermap.org/triggers)
-```
-{data: {} }
-```
 
 
 ## Wireframes
@@ -35,18 +28,16 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
-#### MVP EXAMPLE
-- Find and use external api 
-- Render data on page 
-- Allow user to interact with the page
-- Get user location
-- Adding international location
+#### MVP 
+-- Allow user to input a search term
+-- Render the API data in three separate containers 
+-- For the non-English results, there is an automatic call to a translation API.
 
 
 #### PostMVP EXAMPLE
 
-- Add weather map1.0 if I have time
-- switch temp unit
+-- Each news item is styled with a small logo 
+-- The three news containers are styled so that their background color automatically fades when they are filled with news items.
 
 
 ## Components
@@ -68,19 +59,13 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Adding get user location | H | 4hrs| hrs | hrs |
-| Working with API | H | 3hrs | 2.5hrs | 2.5hrs |
-| Current Weather | H | 3hrs | hrs | hrs |
-| 5 days Forecast | H | 2hrs | hrs | hrs|
-| UV info | M | 1.5hrs | hrs | hrs |
-| mobile css design | M | 3hrs | hrs | hrs |
-| desktop css design | M | 3hrs | hrs | hrs |
-| Adding international weather| M | 2hrs | hrs | hrs |
-| Swich temp unit button| L | 1.5 hrs | hrs | hrs |
-| Weather map| L | 4hrs | hrs | hrs |
-| Map css design| L | 3hrs | hrs | hrs |
-| Total | H | 33hrs| 5hrs | 5hrs |
+|Input handling	High|	4hrs|	N/A|	N/A|
+|Comparing search result vs source list|	High|	2hrs|	N/A|	N/A|
+|Configuring API	High|	4hrs|	N/A|	N/A|
+|API response tweaking|	High|	4hrs|	N/A|	N/A|
+|Write Out Components|	High|	4hrs|	N/A|	N/A|
+|UX and ReadME tweaks|	Medium|	2hrs|	N/A|	N/A|
+|Total|		20hrs|	N/A|	N/A|
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project such as Axios, ReactStrap, D3, etc. 
