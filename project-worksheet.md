@@ -29,15 +29,15 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP 
--- Allow user to input a search term
--- Render the API data in three separate containers 
--- For the non-English results, there is an automatic call to a translation API.
+- Allow user to input a search term
+- Render the API data in three separate containers 
+- For the non-English results, there is an automatic call to a translation API.
 
 
 #### PostMVP EXAMPLE
 
--- Each news item is styled with a small logo 
--- The three news containers are styled so that their background color automatically fades when they are filled with news items.
+- Each news item is styled with a small logo 
+- The three news containers are styled so that their background color automatically fades when they are filled with news items.
 
 
 ## Components
