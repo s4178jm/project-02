@@ -3,7 +3,7 @@
 ## Project Links
 
 - [add your github repo link](https://github.com/s4178jm/project-02/blob/master/project-worksheet.md)
-- [add your deployment link](https://5e8b16b1a579bb02f4c42030--festive-clarke-da23bb.netlify.com/)
+- [add your deployment link](https://festive-clarke-da23bb.netlify.com/)
 
 ## Project Description
 
