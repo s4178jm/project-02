@@ -229,12 +229,7 @@ class Main extends React.Component {
             this.state.worldResultList
           }
           /> } />
-          <
-          Route path = '/about'
-          component = {
-            About
-          }
-          /> </Switch > </main>
+          <Route path = '/about' component = {About}/> </Switch > </main>
         );
       }
     }
